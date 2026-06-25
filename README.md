@@ -128,3 +128,7 @@ git commit -m "init hackathon kit"
 
 Открой `template/README.md`, если нужен короткий пример, как быстро
 подставить своё решение в шаблон.
+
+## Cheatsheets
+
+Если нужны функции, открой `cheatsheets/functions.md`.
