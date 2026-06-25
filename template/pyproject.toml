@@ -1,0 +1,5 @@
+[project]
+name = "hackathon-template"
+version = "0.1.0"
+description = "Python template for hackathon problem solving."
+requires-python = ">=3.11"

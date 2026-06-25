@@ -1,0 +1,15 @@
+# Ruff config for hackathon template.
+# Lint rules:
+# - E, W: pycodestyle
+# - F: pyflakes
+# - I: import sorting
+# - UP: pyupgrade
+
+target-version = "py311"
+line-length = 100
+
+[lint]
+select = ["E", "F", "W", "I", "UP"]
+
+[format]
+quote-style = "double"
